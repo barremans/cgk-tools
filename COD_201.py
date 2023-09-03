@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import ttk, filedialog
 from tqdm import tqdm
 from PIL import Image, ImageTk
-import time
+#import time
 import threading
 
 # Constants and variables
