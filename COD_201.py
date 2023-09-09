@@ -11,7 +11,7 @@ import threading
 __author__ = 'Barremans'
 __copyright__ = 'Copyright (C) 2023, Barremans'
 __credits__ = ['barre']
-__license__ = 'Free GPl'
+__license__ = 'GNU'
 __version__ = '1.0.0'
 __maintainer__ = 'Barremans'
 __email__ = 'zombiekillers.be@gmail.com'
